@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhibhuyar15
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+-  I’m interested in Software development
+-  I’m currently learning Python
+-  I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
